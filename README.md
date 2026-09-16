@@ -1,4 +1,4 @@
-# 📚 BookStore - Spring Boot Project
+# 📚 KitabDukan - Spring Boot Project
 
 A BookStore application built using **Java and Spring Boot**.  
 This project demonstrates the development of a backend application using Spring Boot, Spring Data JPA, REST APIs, and database integration.
