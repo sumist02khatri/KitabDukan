@@ -22,7 +22,6 @@ This project demonstrates the development of a backend application using Spring 
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
-|---|---|
 | ☕ Java | Programming Language |
 | 🌱 Spring Boot | Backend Framework |
 | 🌐 Spring Web | REST API Development |
